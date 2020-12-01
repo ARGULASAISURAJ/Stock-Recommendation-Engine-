@@ -3,7 +3,10 @@ In this project we have developed Content based Recommendation Engine for S&amp;
 
 Team Contact
 Sai Suraj Argula https://www.linkedin.com/in/suraj-argula/
+
 Vinay Kumar Reddy https://www.linkedin.com/in/vinay-kumar-reddy-baradi/
+
 Girija Bandaru https://www.linkedin.com/in/girija-bandaru-2687b994/
+
 Anusha Seshagiri https://www.linkedin.com/in/anusha-seshagiri-071227105/
 
