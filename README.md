@@ -5,19 +5,25 @@ In this project we have developed Content based Recommendation Engine for S&amp;
 Files Navigation-
 
 Data Collection-
+
 S&P_500_info_Datacollection.ipynb
+
 S&P_500_recomm_Datacollection.ipynb
 
 Data Visualkisation-
+
 Data_Visualisations.ipynb
 
 Data Pre-Processing and Model Building
+
 Cosine_Similarity_Description.ipynb
 
 PPT Presentation-
+
 Stock Recommendation Engine Using PySpark (3).pptx
 
 Data-
+
 stocks_final_data.csv
 
 
